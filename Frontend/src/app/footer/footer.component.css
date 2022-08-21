@@ -34,7 +34,7 @@ h2{
     bottom: 0;
     width: 100%;
     z-index: 11111;
-    top: 35px;
+    /* top: 35px; */
 }
 
 footer p, footer strong, footer b, footer {

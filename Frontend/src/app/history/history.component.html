@@ -1,3 +1,4 @@
+<div id="content" #content>
 <table class="table">
     <caption><u>Application History</u></caption>
     <thead>
@@ -96,5 +97,9 @@
     </tbody>
   </table>
   <div class="text-center">
-    <button type="submit">Download <br> (in pdf/excel)</button>
+    <button (click)="makePDF()">Download <br> (in pdf/excel)</button>
   </div>
+  </div>
+  <!-- <div class="text-center">
+    <button (click)="makePDF()">Download <br> (in pdf/excel)</button>
+  </div> -->

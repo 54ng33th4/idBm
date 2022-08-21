@@ -153,3 +153,15 @@ p{
 ul{
     color: goldenrod;
 }
+#main { 
+    margin: 0; 
+    font-family: Roboto,"Helvetica Neue", sans-serif; 
+    /* padding: 100px 25px 25px 10px; */
+    padding-top: 100px;
+    background-image:url('../../assets/images/bg1.gif'); 
+    background-repeat:repeat;
+    overflow:hidden;
+    /* background-size:contain; */
+    height:fit-content;
+    /* width: fit-content; */
+  } 
